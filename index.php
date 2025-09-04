@@ -1,7 +1,7 @@
 <?php
 /**
  * PHP Art Gallery with Auto-Generated Previews + PayPal Buttons
- *
+ * WIP use at own risk
  * Features
  * - Auto-discovers projects in two-level folders: /gallery/<category>/<project>
  * - Each project can include:
